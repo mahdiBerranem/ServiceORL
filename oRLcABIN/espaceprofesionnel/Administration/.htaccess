@@ -1,0 +1,6 @@
+<FilesMatch "admin.php">
+   AuthName "Ceci est du contenu securise"
+   AuthType Basic
+   AuthUserFile "C:\wamp64\www\oRLcABIN\espaceprofesionnel\Administration\.htpasswd"
+   Require valid-user
+</FilesMatch>
