@@ -11,6 +11,7 @@ L‘objectif de ce projet est :
 * Affectation des rendez-vous selon les médecins.
 * Creation de Dossier Médical et l’archiver.
 * Garantir la sécurité des données.
+### Conception
 ### BESION FONCTIONNELS:
 1. Côté Médecin : 
 * Consultation du planning des rendez-vous. 
@@ -22,6 +23,11 @@ L‘objectif de ce projet est :
 * Gestion des rendez-vous. 
 4. Côté Administrateur :
 * Gestion des compte. 
+### Diagrame de cas d'utilisation:
+
+
+![Image1](https://user-images.githubusercontent.com/51234043/139596085-159e69d5-76f4-4982-a77b-56edfa2caf30.png)
+
 ### L’IMPLEMENTATION:
 * index page
 
